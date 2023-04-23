@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "gender": "Male",
+    "name": "John Smith",
+    "contact": "john.smith@example.com",
+    "address": "123 Main St, Anytown USA",
+    "photoUrl": "https://example.com/photos/john_smith.jpg"
+  },
+  {
+    "id": 2,
+    "gender": "Female",
+    "name": "Jane Doe",
+    "contact": "jane.doe@example.com",
+    "address": "456 Second St, Anytown USA",
+    "photoUrl": "https://example.com/photos/jane_doe.jpg"
+  },
+  {
+    "id": 3,
+    "gender": "Male",
+    "name": "Bob Johnson",
+    "contact": "bob.johnson@example.com",
+    "address": "789 Third St, Anytown USA",
+    "photoUrl": "https://example.com/photos/bob_johnson.jpg"
+  },
+  {
+    "id": 4,
+    "gender": "Female",
+    "name": "Alice Williams",
+    "contact": "alice.williams@example.com",
+    "address": "1010 Fourth St, Anytown USA",
+    "photoUrl": "https://example.com/photos/alice_williams.jpg"
+  },
+  {
+    "id": 5,
+    "gender": "Male",
+    "name": "David Brown",
+    "contact": "david.brown@example.com",
+    "address": "1111 Fifth St, Anytown USA",
+    "photoUrl": "https://example.com/photos/david_brown.jpg"
+  },
+  {
+    "id": 6,
+    "gender": "Female",
+    "name": "Emily Davis",
+    "contact": "emily.davis@example.com",
+    "address": "1212 Sixth St, Anytown USA",
+    "photoUrl": "https://example.com/photos/emily_davis.jpg"
+  },
+  {
+    "id": 7,
+    "gender": "Male",
+    "name": "Frank Wilson",
+    "contact": "frank.wilson@example.com",
+    "address": "1313 Seventh St, Anytown USA",
+    "photoUrl": "https://example.com/photos/frank_wilson.jpg"
+  },
+  {
+    "id": 8,
+    "gender": "Female",
+    "name": "Grace Martinez",
+    "contact": "grace.martinez@example.com",
+    "address": "1414 Eighth St, Anytown USA",
+    "photoUrl": "https://example.com/photos/grace_martinez.jpg"
+  },
+  {
+    "id": 9,
+    "gender": "Male",
+    "name": "Henry Lee",
+    "contact": "henry.lee@example.com",
+    "address": "1515 Ninth St, Anytown USA",
+    "photoUrl": "https://example.com/photos/henry_lee.jpg"
+  },
+  {
+    "id": 10,
+    "gender": "Female",
+    "name": "Isabella Brown",
+    "contact": "isabella.brown@example.com",
+    "address": "1616 Tenth St, Anytown USA",
+    "photoUrl": "https://example.com/photos/isabella_brown.jpg"
+  }
+]
